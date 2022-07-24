@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="dba018f8-ea44-4bea-b501-5d48cd2eed20" name="TestingSystem001" url="jdbc:postgresql://localhost/TestingSystem001" driverClass="org.postgresql.Driver" />
+      <data-source id="50a10cc5-2578-4cc9-8acb-031aa603bdd1" name="TestingSystem" url="jdbc:postgresql://localhost/TestingSystem" driverClass="org.postgresql.Driver" />
+      <data-source id="776f2e9a-bda0-411e-85ff-f6e5981bcede" name="TestingSystem0" url="jdbc:mysql://localhost/TestingSystem?useSSL=false&amp;allowMultiQueries=true&amp;serverTimezone=UTC" driverClass="com.mysql.cj.jdbc.Driver" />
+    </data-sources>
+  </component>
+</project>
